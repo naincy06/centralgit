@@ -4,5 +4,6 @@ public static void main(String args[])
 {
 System.out.println("Hello from naina");
 System.out.println("Hello from naincy");
+System.out.println("Hello from hari");
 }
 }
